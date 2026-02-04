@@ -83,8 +83,9 @@ store-sales-data-pipeline/
 ├── powerbi/
 │   └── store_sales_dashboard.pbix
 │
-└── assets/
-    └── dashboard_preview.png
+└── assets/ 
+    ├── dashboard_preview.png
+    └── store_sales_analytics_schema.png
 
 # 📈 Dashboard Power BI
 
