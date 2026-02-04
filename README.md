@@ -86,6 +86,7 @@ store-sales-data-pipeline/
 └── assets/ 
     ├── dashboard_preview.png
     └── store_sales_analytics_schema.png
+```text
 
 # 📈 Dashboard Power BI
 
