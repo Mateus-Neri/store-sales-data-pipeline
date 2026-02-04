@@ -1,6 +1,3 @@
-# Arquitetura do Projeto – Store Sales ETL
-
-```mermaid
 flowchart LR
     A[Fonte de Dados - CSV / Dataset Bruto] --> B[Bronze Layer - Extract]
     B --> C[Silver Layer - Transform]
